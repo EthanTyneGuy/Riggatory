@@ -12,4 +12,5 @@ if (a > b){
 else { 
     cout << "even more the fuck?";
 }
+return 0;
 }

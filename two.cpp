@@ -41,4 +41,5 @@ if (nup > fup && nup > sup){
         cout << fup << " is the least.";
     }
 }
+return 0;
 }
